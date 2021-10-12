@@ -1,0 +1,29 @@
+.Ulist{ 
+    height: 25px;
+}
+
+.List_header{
+    background-color: #f6f6f6;
+}
+.svg{
+    display: inline;
+}
+
+.Ttable{
+    border-radius: 15px 15px 15px 15px;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 350px;
+    height: auto;
+    overflow-y: scroll;
+    
+}
+
+.Img {
+    border-radius: 50%;
+    width: 27px;
+    height: 27px;
+}
+
+
+  
